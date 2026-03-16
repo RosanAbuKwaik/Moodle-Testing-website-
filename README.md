@@ -67,7 +67,7 @@ This combination of tools allowed our team to stay organized, communicate effect
 This testing project was successfully executed by the dedicated team:
 
 - **Rosan AbuKwaik**
-- **@Salahaldin-QA**
+@Salahaldin-Qa**
 - **Moonera Al-Mashni**
 - **Heba Basil**
 
