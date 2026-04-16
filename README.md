@@ -58,6 +58,8 @@ To manage this project efficiently, we utilized the following tools:
 This combination of tools allowed our team to stay organized, communicate effectively, and maintain a clear record of the entire testing process.
 
 ## 🚀 How to Use This Repository
+<img width="959" height="443" alt="jira" src="https://github.com/user-attachments/assets/987d3125-3e22-4531-ad53-44eae09bdcdf" />
+
 
 1.  **Review the Documentation:** Start by reading the `SRS.pdf` to understand the system's requirements and the `Test plan template for Moodle (1).pdf` to grasp our testing strategy.
 2.  **Explore the Traceability:** Open the `RTM for moodle.xlsx` to see how requirements are linked to test cases.
