@@ -49,17 +49,21 @@ We followed a structured testing strategy incorporating multiple test levels:
 
 To manage this project efficiently, we utilized the following tools:
 
-- **[Trello](https://trello.com/b/89jQrKPx/moodle-functional-testing):** Used for **task management and workflow visualization**. We created boards to divide the project into phases (e.g., "Test Plan Creation", "Test Case Writing", "Test Execution", "Bug Reporting"). Cards were assigned to team members (Salah, Moonera, Rosan, Heba) to track individual responsibilities and progress.
-- **[ Bug Reports on Jira ](https://salahpm46-1770580905899.atlassian.net/issues/?jql=project%20in%20%28SCRUM%29%20ORDER%20BY%20created%20DESC):** Served as our primary tool for **defect tracking and project management**. Detailed bug reports were logged as Jira issues, including steps to reproduce, severity, priority, and status. This centralized approach ensured no defect was overlooked.
-- [Zephyr Test Cases on Jira](https://salahpm46-1770580905899.atlassian.net/jira/software/projects/SCRUM/apps/628ce3d4-ed20-4ac9-91aa-6c6ab21a770a/1f1570b7-1896-4331-a997-66cd076264f1#/v2/testCases?projectId=10000): This app was integrated with Jira to manage our **test case library and test cyclcycles 
+- **[Trello]:** Used for **task management and workflow visualization**. We created boards to divide the project into phases (e.g., "Test Plan Creation", "Test Case Writing", "Test Execution", "Bug Reporting"). Cards were assigned to team members (Salah, Moonera, Rosan, Heba) to track individual responsibilities and progress.
+- <img width="956" height="425" alt="trello" src="https://github.com/user-attachments/assets/711aaacd-9a17-4a72-8ea2-c7ec727501e0" />
+
+- **[ Bug Reports on Jira ]:** Served as our primary tool for **defect tracking and project management**. Detailed bug reports were logged as Jira issues, including steps to reproduce, severity, priority, and status. This centralized approach ensured no defect was overlooked.
+- <img width="959" height="443" alt="jira" src="https://github.com/user-attachments/assets/5e7d1f5a-b27d-42c4-adc6-da55e3776776" />
+
+- [Zephyr Test Cases on Jira]:This app was integrated with Jira to manage our **test case library and test cyclcycles 
   We used it to organize our 77 test cases, schedule test executions (cycles), and record results directly within Jira.  
   This provided real-time visibility into testing progress and traceability between test cases and defects.
+  <img width="956" height="440" alt="zephyr" src="https://github.com/user-attachments/assets/1005e795-f225-452e-b79d-1586d6c48cb5" />
+
 
 This combination of tools allowed our team to stay organized, communicate effectively, and maintain a clear record of the entire testing process.
 
 ## 🚀 How to Use This Repository
-<img width="959" height="443" alt="jira" src="https://github.com/user-attachments/assets/987d3125-3e22-4531-ad53-44eae09bdcdf" />
-
 
 1.  **Review the Documentation:** Start by reading the `SRS.pdf` to understand the system's requirements and the `Test plan template for Moodle (1).pdf` to grasp our testing strategy.
 2.  **Explore the Traceability:** Open the `RTM for moodle.xlsx` to see how requirements are linked to test cases.
