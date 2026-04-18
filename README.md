@@ -55,9 +55,14 @@ To manage this project efficiently, we utilized the following tools:
 - <img width="956" height="425" alt="trello" src="https://github.com/user-attachments/assets/711aaacd-9a17-4a72-8ea2-c7ec727501e0" />
 
 
+
+
 - **[ Bug Reports on Jira ]**: Served as our primary tool for **defect tracking and project management**. Detailed bug reports were logged as Jira issues, including steps to reproduce, severity, priority, and status. This centralized approach ensured no defect was overlooked.
 - 
 - <img width="959" height="443" alt="jira" src="https://github.com/user-attachments/assets/5e7d1f5a-b27d-42c4-adc6-da55e3776776" />
+
+
+
 
 
 - **[Zephyr Test Cases on Jira]**:This app was integrated with Jira to manage our **test case library and test cyclcycles 
